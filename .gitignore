@@ -1,0 +1,11 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs/
+jwt/obj/
+jwt/obj/Debug/
+jwt/bin/Debug/
+MongoData/obj/
+MongoData/obj/Debug/
+MongoData/bin/Debug/
