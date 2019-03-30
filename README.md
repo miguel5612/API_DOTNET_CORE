@@ -1,0 +1,2 @@
+# API_DOTNET_CORE
+.NET CORE + MONGO DB + MS SQL. (Please try using POSTMAN).
